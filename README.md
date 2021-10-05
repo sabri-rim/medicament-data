@@ -9,4 +9,7 @@ source : https://assurance-maladie.ameli.fr/etudes-et-donnees/open-medic-base-co
 
 exemple d'utilisation :
 Analyse comparative du nombre des prescriptions des generiques par le secteur liberal et les hopitaux publics 
+
+
+
 ![hist](https://user-images.githubusercontent.com/73078692/135997761-3e54ebab-dbcb-43a4-ac15-44d990e6d419.PNG)
