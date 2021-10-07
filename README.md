@@ -7,6 +7,42 @@ Le jeu de données Open Medic - base complète permet d’étudier les dépenses
 
 À noter : la base de remboursement et le montant remboursé n'incluent pas les honoraires de dispensation au conditionnement perçus par les pharmaciens d'officine 
 
+# description variables 
+
+ATC1 : Goupe Principal Anatomique
+
+ATC2 : Sous-Groupe Thérapeutique 
+
+ATC3 : Sous-Groupe Pharmacologique
+
+ATC4 : Sous-Groupe Chimique
+
+ATC5 : Sous-Groupe Substance Chimique
+
+CIP13 : Code Identification Spécialité Pharmaceutqiue
+
+TOP_GEN : TOP_GEN
+
+GEN_NUM : Groupe Générique
+
+AGE : age au moment des soinss
+
+SEXE : sexe
+
+BEN_REG : Region de résidence du Bénéficiaire 
+
+PSP_SPE : Prescripteur 
+
+REM : Montant remboursé 
+
+BSE : Base de remboursement 
+
+BOITES : Nombre de boîtes délivrées 
+
+NBC : Nombre de consommants (disponible uniquement dans ls bases tyoe NB_)
+
+Boi
+
 source : https://assurance-maladie.ameli.fr/etudes-et-donnees/open-medic-base-complete-depenses-medicaments-2020
 
 exemple d'utilisation :
