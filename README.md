@@ -41,7 +41,6 @@ BOITES : Nombre de boîtes délivrées
 
 NBC : Nombre de consommants (disponible uniquement dans ls bases tyoe NB_)
 
-Boi
 
 # source : 
 https://assurance-maladie.ameli.fr/etudes-et-donnees/open-medic-base-complete-depenses-medicaments-2020
