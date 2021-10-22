@@ -1,4 +1,4 @@
-# medicament-data
+# Les remboursements de médicaments
 
 Cette base de données annuelle (Open Medic) présente les remboursements de médicaments délivrés en ville, effectués par l'ensemble des régimes d'assurance maladie (base complète) en 2020.
 Toutes les données sont extraites du système national des données de santé (SNDS).
